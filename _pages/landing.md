@@ -1,5 +1,5 @@
 ---
-title: "Postdoctoral Fellow"
+title: "Visiting Assistant Professor"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
@@ -11,10 +11,10 @@ header:
     - label: "Download CV"
     - label: "Email"
   # caption: "Photo credit: James Santangelo"
-excerpt: Department of Integrative Biology,<br>University of California, Berkeley
+excerpt: Department of Biology,<br>University of Louisiana, Lafayette
 
 intro:
-  - excerpt: '_I recently completed my PhD in the department of Ecology and Evolutionary Biology at the University of Toronto working with [Marc Johnson](https://evoecolab.wordpress.com/){:target="_blank"} and [Rob Ness](https://www.ness.bio){:target="_blank"} where I used urban environments as large-scale, naturally replicated environments to examine the extent of parallel phenotypic and genomic evolution in nature using white clover (Trifolium repens) as a model system. I am currently a postdoc with [Rasmus Nielsen](https://nielsen-lab.github.io/){:target="_blank"} where I am investigating genome-wide signatures of natural selection associated with urbanization and developing methods to estimate the strength of selection along environmental gradients using whole genome sequence data._'
+  - excerpt: '_I completed my PhD in the department of Environmental Systems at the University of California, Merced working with [Jason Sexton](https://sextonlab.ucmerced.edu/){:target="_blank"} where I investigated adaptive evolution and phenotypic plasticity to climate in various plant systems. I held a postdoc under [Nicholas Kooyers](https://www.plantadaptation.com/){:target="_blank"} where I examined._'
 
 feature_row:
   - image_path: assets/images/squill.jpg

@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "James S. Santangelo, PhD"
+title                    : "Brandon T. Hendrickson, PhD"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "James S. Santangelo, PhD"
+name                     : "Brandon T. Hendrickson, PhD"
 description              : "Postdoctoral Fellow"
-url                      : https://james-s-santangelo.github.io
+url                      : https://brandon-thomas-hendrickson.github.io
 # baseurl                  : /landing
-repository               : James-S-Santangelo/James-S-Santangelo.github.io
+repository               : Brandon-Thomas-Hendrickson/Brandon-Thomas-Hendrickson.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "James S. Santangelo, PhD" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Brandon T. Hendrickson, PhD" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -93,32 +93,32 @@ analytics:
 
 # Site Author
 author:
-  name             : "James S. Santangelo, PhD"
-  avatar           : "assets/images/UTM_James_Santangelo_headshot.jpeg"
-  bio              : "Postdoctoral Fellow, Department of Integrative Biology at the University of California Berkeley"
-  location         : "Berkeley, California"
-  email            : james.santangelo@berkeley.edu
-  cv               : /assets/docs/Santangelo_cv.pdf
+  name             : "Brandon T. Hendrickson, PhD"
+  avatar           : "assets/images/BrandonHendrickson_Photo.jpeg"
+  bio              : "Visiting Assistant Professor, Department of Biology at the University of Louisiana, Lafayette"
+  location         : "Lafayette, Louisiana"
+  email            : brandon.hendrickson@louisiana.edu
+  cv               : /assets/docs/CV_Hendrickson.pdf
   links:
     - label: "Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=3Y4O9c4AAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=wTolpJEAAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/James-S-Santangelo"
+      url: "https://github.com/Brandon-Thomas-Hendrickson"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0002-5921-2548"
+      url: "https://orcid.org/0000-0003-1201-0604"
 
 # Site Footer
 footer:
   links:
     - label: "Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=3Y4O9c4AAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=wTolpJEAAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/James-S-Santangelo"
+      url: "https://github.com/Brandon-Thomas-Hendrickson"
 
 
 # Reading Files
