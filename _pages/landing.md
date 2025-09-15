@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/Infl_fruit_wide.jpg
+  overlay_image: /assets/images/lakemartin.jpeg
   actions:
     - label: "Download CV"
     - label: "Email"
@@ -17,23 +17,23 @@ intro:
   - excerpt: '_I completed my PhD in the department of Environmental Systems at the University of California, Merced working with [Jason Sexton](https://sextonlab.ucmerced.edu/){:target="_blank"} where I investigated adaptive evolution and phenotypic plasticity to climate in various plant systems. I held a postdoc under [Nicholas Kooyers](https://www.plantadaptation.com/){:target="_blank"} where I examined._'
 
 feature_row:
-  - image_path: assets/images/squill.jpg
-    alt: "Siberian squill anthers"
+  - image_path: assets/images/trifolium_repens_illustration.jpg
+    alt: "Herbarium T. repens"
     title: "Research"
     excerpt: "Descriptions of past and ongoing projects"
     url: /research/
     # btn_label: "Read More"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/salix.jpg
+  - image_path: /assets/images/vernalpool.jpeg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "Salix flowers"
+    alt: "Vernal Pools"
     title: "Publications"
     excerpt: "List of published papers and works in-progress"
     url: /publications/
     # btn_label: "Read More"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/fly-agaric.jpg
-    alt: "Fly agaric on forest floor"
+  - image_path: /assets/images/endophytes.jpeg
+    alt: "Endophytes"
     title: "Talks and posters"
     excerpt: "Links to content presentated at past conferences"
     url: /conferences/
