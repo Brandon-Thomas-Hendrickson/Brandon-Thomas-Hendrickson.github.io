@@ -1,11 +1,11 @@
 ---
-- id: Albano2024
+- id: Albano2025
   authors: Lucas J. Albano, Cristina C. Bastias, Aurélien Estarague, __Brandon T. Hendrickson__, Simon G. Innes, Nevada King, Courtney M. Patterson, Amelia Tudoran, François Vasseur, Adriana Puentes, Cyrille Violle, Nicholas J. Kooyers, Marc T. J. Johnson
   title: A transcontinental experiment elucidates (mal)adaptation of a cosmopolitan plant to climate in space and time
-  journal: bioRxiv
-  year: 2024
+  journal: Ecological Monographs
+  year: 2025
   volume: 
-  pages: 2024.09.16.613311
+  pages: (Accepted)
   openaccess: true
   pdf-url: http://biorxiv.org/lookup/doi/10.1101/2024.09.16.613311
 
@@ -19,27 +19,27 @@
   openaccess: false
   pdf-url: https://www.nature.com/articles/s41559-025-02751-2
 
-- id: Battlay2024
-  authors: Paul Battlay, __Brandon T. Hendrickson__, Jonas I. Mendez-Reneau, James S. Santangelo, Lucas J. Albano, Jonathan Wilson, Aude E. Caizergues, Nevada King, Adriana Puentes, Amelia Tudoran, Cyrille Violle, Francois Vasseur, Courtney M. Patterson, Michael J. Foster, Caitlyn Stamps, Simon G. Innes, Remi Allio, Fabio Angeoletto, Daniel N. Anstett, Julia Anstett, Anna Bucharova, Mattheau S. Comerford, Santiago David, Mohsen Falahati Anbaran, William Godsoe, Cesar Gonzalez-Lagos, Pedro E. Gundel, Glen Ray Hood, Regina Karousou, Christian Lampei, Carlos Lara, Adrian Lazaro-Lobo, Deleon Leandro, Thomas JS. Merritt, Nora Mitchell, Mitra Mohammadi Bazargani, Angela Moles, Maureen Murua, Juraj Paule, Vera Pfeiffer, Joost AM. Raeymaekers, Diana J. Rennison, Rodrigo S. Rios, Jennifer K. Rowntree, Adam C. Schneider, Kaitlin Stack Whitney, Italo Tamburrino, Acer VanWallendael, Paul Y. Kim, Rob W. Ness, Marc TJ. Johnson, Kathryn A. Hodgins, Nicholas J. Kooyers
-  title: Structural variants underlie parallel adaptation following global invasion
-  journal: bioRxiv
-  year: 2024
-  volume: 
-  pages: 2024.07.09.602765
-  openaccess: true
-  pdf-url: http://biorxiv.org/lookup/doi/10.1101/2024.07.09.602765
-
-- id: Hendrickson2024a
+- id: Hendrickson2025b
   authors: __Brandon Thomas Hendrickson__, Aubrie Heckel, Robert Martin, Jason Sexton
   title: Climatic determinants of plant phenology in vernal pool habitats
-  journal: bioRxiv
-  year: 2024
+  journal: American Jounral of Botany
+  year: 2025
   volume: 
-  pages: 2024.07.25.605166
+  pages: 2025.06.28.e70064
   openaccess: true
-  pdf-url: http://biorxiv.org/lookup/doi/10.1101/2024.07.25.605166
+  pdf-url:  https://doi.org/10.1002/ajb2.70064
 
-- id: Hendrickson2024b
+- id: Hendrickson2025a
+  authors: __Brandon T. Hendrickson__, Caitlyn Stamps, Courtney M. Patterson, Hunter Strickland, Michael Foster, Lucas J. Albano, Audrey Y. Kim, Paul Y. Kim, Nicholas J. Kooyers
+  title: Evolution of drought resistance strategies following the introduction of white clover (Trifolium repens L.)
+  journal: Annals of Botany
+  year: 2025
+  volume: 
+  pages: mcaf037
+  openaccess: true
+  pdf-url: https://academic.oup.com/aob/advance-article/doi/10.1093/aob/mcaf037/8056115
+
+- id: Hendrickson2024
   authors: __Brandon Hendrickson__
   title: Environmental determinants of phylogenetic diversity in vernal pool habitats
   journal: Ecology and Evolution
@@ -49,15 +49,25 @@
   openaccess: true
   pdf-url: https://onlinelibrary.wiley.com/doi/10.1002/ece3.11583
 
-- id: Hendrickson2025
-  authors: __Brandon T. Hendrickson__, Caitlyn Stamps, Courtney M. Patterson, Hunter Strickland, Michael Foster, Lucas J. Albano, Audrey Y. Kim, Paul Y. Kim, Nicholas J. Kooyers
-  title: Evolution of drought resistance strategies following the introduction of white clover (Trifolium repens L.)
-  journal: Annals of Botany
-  year: 2025
-  volume: 
-  pages: mcaf037
+- id: Santangelo2023
+  authors: James S. Santangelo, Paul Battlay, __Brandon T. Hendrickson__, Wen Hsi-Kuo, Kenneth M. Olsen, Nicholas J. Kooyers, Marc T. J. Johnson, Kathryn A. Hodgins, Rob W. Ness
+  title: Haplotype-Resolved, Chromosome-Level Assembly of White Clover (Trifolium repens L., Fabaceae)
+  journal: Genome Biology and Evolution
+  year: 2023
+  volume: 15
+  pages: evad146
   openaccess: true
-  pdf-url: https://academic.oup.com/aob/advance-article/doi/10.1093/aob/mcaf037/8056115
+  pdf-url: 
+
+- id: Shay2021
+  authors: Jackie E. Shay, Lillie K. Pennington, Jorge A. Mandussi Montiel-Molina, Daniel J. Toews, __Brandon T. Hendrickson__, Jason P. Sexton
+  title: "Rules of Plant Species Ranges: Applications for Conservation Strategies"
+  journal: Frontiers in Ecology and Evolution
+  year: 2021
+  volume: 9
+  pages: 700962
+  openaccess: true
+  pdf-url: https://www.frontiersin.org/articles/10.3389/fevo.2021.700962/full
 
 - id: Larsen2015
   authors: Ashley E. Larsen, __Brandon T. Hendrickson__, Nicholas Dedeic, Andrew J. MacDonald
@@ -79,23 +89,4 @@
   openaccess: false
   pdf-url: https://academic.oup.com/evolut/article/72/3/453/6726741
 
-- id: Santangelo2023
-  authors: James S. Santangelo, Paul Battlay, __Brandon T. Hendrickson__, Wen Hsi-Kuo, Kenneth M. Olsen, Nicholas J. Kooyers, Marc T. J. Johnson, Kathryn A. Hodgins, Rob W. Ness
-  title: Haplotype-Resolved, Chromosome-Level Assembly of White Clover (Trifolium repens L., Fabaceae)
-  journal: Genome Biology and Evolution
-  year: 2023
-  volume: 15
-  pages: evad146
-  openaccess: true
-  pdf-url: 
-
-- id: Shay2021
-  authors: Jackie E. Shay, Lillie K. Pennington, Jorge A. Mandussi Montiel-Molina, Daniel J. Toews, __Brandon T. Hendrickson__, Jason P. Sexton
-  title: "Rules of Plant Species Ranges: Applications for Conservation Strategies"
-  journal: Frontiers in Ecology and Evolution
-  year: 2021
-  volume: 9
-  pages: 700962
-  openaccess: true
-  pdf-url: https://www.frontiersin.org/articles/10.3389/fevo.2021.700962/full
 ---
