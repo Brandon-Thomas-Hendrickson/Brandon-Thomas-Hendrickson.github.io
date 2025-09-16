@@ -14,12 +14,12 @@ last_modified_at: April 2023
 
 ## Book chapters
 
-#{% include book-chapters.html %}
+{% include book-chapters.html %}
 
 ## Preprints
 
-#{% include preprints.html %}
+{% include preprints.html %}
 
 ## Educational resources (not peer-reviewed)
 
-#{% include educational-resources.html %}
+{% include educational-resources.html %}

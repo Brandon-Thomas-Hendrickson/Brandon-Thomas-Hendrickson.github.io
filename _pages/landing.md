@@ -24,7 +24,7 @@ feature_row:
     url: /research/
     # btn_label: "Read More"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/vernalpool.jpeg
+  - image_path: /assets/images/Publication_image.png
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Vernal Pools"
     title: "Publications"
