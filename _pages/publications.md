@@ -6,7 +6,7 @@ title: "Publications"
 classes: wide
 toc: true
 last_modified_at: April 2023 
-
+---
 
 ## Peer-reviewed journals
 
@@ -23,3 +23,4 @@ last_modified_at: April 2023
 ## Educational resources (not peer-reviewed)
 
 {% include educational-resources.html %}
+
