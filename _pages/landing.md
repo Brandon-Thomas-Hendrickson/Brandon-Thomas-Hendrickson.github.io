@@ -14,7 +14,7 @@ header:
 excerpt: Department of Biology,<br>University of Louisiana, Lafayette
 
 intro:
-  - excerpt: '_I completed my PhD in the department of Environmental Systems at the University of California, Merced working with [Jason Sexton](https://sextonlab.ucmerced.edu/){:target="_blank"} where I investigated adaptive evolution and phenotypic plasticity to climate in various plant systems. I held a postdoc under [Nicholas Kooyers](https://www.plantadaptation.com/){:target="_blank"} where I examined._'
+  - excerpt: '_I completed my PhD in the department of Environmental Systems at the University of California, Merced working with [Jason Sexton](https://sextonlab.ucmerced.edu/){:target="_blank"} where I investigated adaptive evolution and phenotypic plasticity to climate in various plant systems. I held a postdoc under [Nicholas Kooyers](https://www.plantadaptation.com/){:target="_blank"} where I examined genomic features underlying invasion in white clover. I now using herbarium records to uncover adaptive evolution to local and global change. In addition, I develope pipelines to rapidly identify microbial sequence data from big datasets and analyze them in repsonse to spatial and temporal gradients.'
 
 feature_row:
   - image_path: assets/images/trifolium_repens_illustration.jpg
